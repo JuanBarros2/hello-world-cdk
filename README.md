@@ -1,6 +1,6 @@
-# oss-template
+# Hello World 
 
-> Pequena descrição do que seu projeto faz.
+Uma aplicação hello world utilizando o AWS CDK.
 
 <!-- Descreva aqui no início os objetivos do seu projeto. -->
 
